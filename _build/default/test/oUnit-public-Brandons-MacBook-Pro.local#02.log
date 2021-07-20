@@ -1,0 +1,45 @@
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Start test public:1:expr_ops.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Test public:1:expr_ops is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: End test public:1:expr_ops.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Start test public:3:stmt_basic.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Test public:3:stmt_basic is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: End test public:3:stmt_basic.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Start test public:4:stmt_control.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Test public:4:stmt_control is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: End test public:4:stmt_control.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Start test public:6:define_2.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Test public:6:define_2 is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: End test public:6:define_2.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Start test public:8:assign_2.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Test public:8:assign_2 is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: End test public:8:assign_2.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Start test public:10:notequal.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Test public:10:notequal is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: End test public:10:notequal.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Start test public:12:less.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Test public:12:less is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: End test public:12:less.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Start test public:14:exp_2.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Test public:14:exp_2 is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: End test public:14:exp_2.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Start test public:15:exp_3.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Test public:15:exp_3 is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: End test public:15:exp_3.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Start test public:18:while.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Test public:18:while is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: End test public:18:while.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Start test public:19:for.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Test public:19:for is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: End test public:19:for.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Start test public:22:main.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Test public:22:main is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: End test public:22:main.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Start test public:23:test_1.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Test public:23:test_1 is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: End test public:23:test_1.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Start test public:26:stmt_fail_basic.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Test public:26:stmt_fail_basic is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: End test public:26:stmt_fail_basic.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Start test public:27:stmt_fail_control.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: Test public:27:stmt_fail_control is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#02 I: End test public:27:stmt_fail_control.

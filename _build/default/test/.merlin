@@ -1,0 +1,18 @@
+EXCLUDE_QUERY_DIR
+B /Users/brandonkim/.opam/4.07.0/lib/bytes
+B /Users/brandonkim/.opam/4.07.0/lib/oUnit
+B /Users/brandonkim/.opam/4.07.0/lib/ocaml
+B /Users/brandonkim/.opam/4.07.0/lib/ounit2
+B /Users/brandonkim/.opam/4.07.0/lib/ounit2/advanced
+B /Users/brandonkim/.opam/4.07.0/lib/stdlib-shims
+B ../_build/default/src/.p4b.objs/byte
+B ../_build/default/test/.student.eobjs/byte
+S /Users/brandonkim/.opam/4.07.0/lib/bytes
+S /Users/brandonkim/.opam/4.07.0/lib/oUnit
+S /Users/brandonkim/.opam/4.07.0/lib/ocaml
+S /Users/brandonkim/.opam/4.07.0/lib/ounit2
+S /Users/brandonkim/.opam/4.07.0/lib/ounit2/advanced
+S /Users/brandonkim/.opam/4.07.0/lib/stdlib-shims
+S ../src
+S .
+FLG -w -40

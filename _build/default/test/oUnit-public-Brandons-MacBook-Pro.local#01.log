@@ -1,0 +1,39 @@
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Start test public:0:expr_basic.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Test public:0:expr_basic is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: End test public:0:expr_basic.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Start test public:2:expr_fail.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Test public:2:expr_fail is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: End test public:2:expr_fail.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Start test public:5:define_1.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Test public:5:define_1 is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: End test public:5:define_1.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Start test public:7:assign_1.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Test public:7:assign_1 is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: End test public:7:assign_1.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Start test public:9:assign_exp.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Test public:9:assign_exp is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: End test public:9:assign_exp.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Start test public:11:equal.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Test public:11:equal is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: End test public:11:equal.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Start test public:13:exp_1.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Test public:13:exp_1 is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: End test public:13:exp_1.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Start test public:16:ifelse.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Test public:16:ifelse is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: End test public:16:ifelse.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Start test public:17:if_else_while.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Test public:17:if_else_while is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: End test public:17:if_else_while.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Start test public:20:nested_ifelse.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Test public:20:nested_ifelse is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: End test public:20:nested_ifelse.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Start test public:21:nested_while.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Test public:21:nested_while is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: End test public:21:nested_while.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Start test public:24:test_2.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Test public:24:test_2 is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: End test public:24:test_2.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Start test public:25:test_3.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: Test public:25:test_3 is successful.
+2020-04-30T18:29:21+00:00 Brandons-MacBook-Pro.local#01 I: End test public:25:test_3.
